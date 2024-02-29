@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+# This script is inspired by the efforts of @nocturnalsushi on Discord, and upgraded into a proper script by SebiAi (thanks mate) :P
+
 import sys
 
 # Check the python version
